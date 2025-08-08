@@ -1,7 +1,7 @@
 # DevSecOps-Git-Practice---Bhagyashreee-Hegde
  practicing a DeVos concept learning purpose 
 Git Configuration
-git config --global user.name "bhagyashree" git config --global user.email "bhagyashree@gmail.com" git config --list
+git config --global user.name "bhagyashree hegde " git config --global user.email "bhagyashree@gmail.com" git config --list
 
 📁 Repository Setup
 git clone https://github.com/............. cd devsecops-tasks mkdir 2025-08-05 cd 2025-08-05 touch task1.txt task2.txt
