@@ -4,7 +4,7 @@ Git Configuration
 git config --global user.name "bhagyashree hegde " git config --global user.email "bhagyashree@gmail.com" git config --list
 
 📁 Repository Setup
-git clone https://github.com/............. cd devsecops-tasks mkdir 2025-08-05 cd 2025-08-05 touch task1.txt task2.txt
+git clone git@github.com:jayuhegde19/DevSecOps-Git-Practice---Bhagyashreee-Hegde.git cd devsecops-tasks mkdir 2025-08-05 cd 2025-08-05 touch task1.txt task2.txt
 
 📦 Staging and Committing
 git status git add . git commit -m "Initial commit with two task files"
